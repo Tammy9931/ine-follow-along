@@ -1,7 +1,7 @@
 # ine-follow-along
 
 # mark-down-language site
-https://hackmd.io/
+- https://hackmd.io/
 
 # free-hacking-course
-https://
+- https://tryhackme.com
